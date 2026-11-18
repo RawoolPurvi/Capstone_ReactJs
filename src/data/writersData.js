@@ -1,0 +1,110 @@
+export const WRITERS_DATA = [
+  {
+    id: 'daniel-reed',
+    name: 'Daniel Reed',
+    role: 'Author & Productivity Coach',
+    location: 'San Francisco, CA',
+    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80',
+    bio: 'Daniel Reed is a writer, minimalist, and productivity coach based in San Francisco. With a passion for intentional living, Daniel has dedicated his career to helping individuals simplify their lives — one habit, one space, and one thought at a time. He is the author of The Joy of Minimalism, an acclaimed guide to decluttering both physically and mentally. His other works include Less, But Better and The Focus Reset, which have helped thousands rethink consumerism, prioritize what truly matters, and build sustainable systems for personal growth.',
+    booksCount: 5,
+    rating: 4.9,
+    followers: '45.2K',
+    publishedBooks: ['joy-of-minimalism']
+  },
+  {
+    id: 'arjun-patel',
+    name: 'Arjun Patel',
+    role: 'Cognitive Neuroscientist & Author',
+    location: 'London, UK',
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80',
+    bio: 'Arjun Patel is a cognitive science researcher and international speaker on human focus and digital wellness. He consults for Fortune 500 tech firms on mitigating workplace distraction.',
+    booksCount: 3,
+    rating: 4.8,
+    followers: '88.1K',
+    publishedBooks: ['the-art-of-focus']
+  },
+  {
+    id: 'raj-patel',
+    name: 'Raj Patel',
+    role: 'Educator & Polymath',
+    location: 'Mumbai, India',
+    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80',
+    bio: 'Raj Patel has taught over 100,000 students worldwide in accelerated memory retention and interdisciplinary thinking.',
+    booksCount: 6,
+    rating: 4.7,
+    followers: '62.4K',
+    publishedBooks: ['the-art-of-learning']
+  },
+  {
+    id: 'james-wright',
+    name: 'James Wright',
+    role: 'Executive Coach & Keynote Speaker',
+    location: 'Boston, MA',
+    avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80',
+    bio: 'James Wright specializes in personal mastery, high-performance routines, and organizational resilience.',
+    booksCount: 4,
+    rating: 4.9,
+    followers: '110K',
+    publishedBooks: ['the-path-to-success']
+  },
+  {
+    id: 'jessica-martin',
+    name: 'Jessica Martin',
+    role: 'Novelist & Poet',
+    location: 'Melbourne, Australia',
+    avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80',
+    bio: 'Jessica Martin crafts evocative contemporary romances and poetry that touch upon grief, cosmic connection, and healing.',
+    booksCount: 8,
+    rating: 4.9,
+    followers: '94K',
+    publishedBooks: ['beneath-the-stars']
+  },
+  {
+    id: 'james-adams',
+    name: 'James Adams',
+    role: 'Mystery & Thriller Writer',
+    location: 'Edinburgh, Scotland',
+    avatar: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80',
+    bio: 'James Adams is a former criminal investigative journalist who now crafts bestselling psychological mystery thrillers.',
+    booksCount: 7,
+    rating: 4.6,
+    followers: '51.3K',
+    publishedBooks: ['the-midnight-hour', 'secrets-of-the-ancients']
+  },
+  {
+    id: 'laura-mitchell',
+    name: 'Laura Mitchell',
+    role: 'Astrophysicist & Sci-Fi Author',
+    location: 'Seattle, WA',
+    avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80',
+    bio: 'Laura Mitchell works in space exploration telemetry and writes hard science fiction grounded in real cosmic physics.',
+    booksCount: 4,
+    rating: 4.8,
+    followers: '73K',
+    publishedBooks: ['the-final-frontier', 'quantum-realms']
+  },
+  {
+    id: 'clara-nelson',
+    name: 'Clara Nelson',
+    role: 'Gothic Fiction Writer',
+    location: 'Salem, MA',
+    avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80',
+    bio: 'Clara Nelson writes atmospheric haunted tales and supernatural thrillers with over 500k digital downloads.',
+    booksCount: 5,
+    rating: 4.5,
+    followers: '33K',
+    publishedBooks: ['the-vanishing-house']
+  },
+  {
+    id: 'emilly-parker',
+    name: 'Emilly Parker',
+    role: 'Children’s Illustrator & Author',
+    location: 'Toronto, Canada',
+    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80',
+    bio: 'Emilly Parker writes joyful illustrated children books and culinary guides inspiring young minds and families.',
+    booksCount: 9,
+    rating: 4.9,
+    followers: '41K',
+    publishedBooks: ['the-lost-kitten', 'culinary-masterclass']
+  }
+];
